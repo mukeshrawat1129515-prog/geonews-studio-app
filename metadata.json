@@ -1,0 +1,6 @@
+{
+  "name": "GeoNews Studio",
+  "description": "AI-powered geopolitical news research and video-script creation app",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
